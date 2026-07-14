@@ -1,4 +1,4 @@
-# Chronokairo Legacy
+# Nous engineer
 
 > **AI infrastructure for obsolete hardware**
 > *Running modern AI where it shouldn't run.*
