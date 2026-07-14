@@ -40,9 +40,10 @@ but can be used separately:
 |-----------|------|
 | **[nous](https://github.com/nousengineer/nous)** | Core platform — runtime (`riluvi`), SDK, multi-tenant server, and editor LLM bridges |
 | **nous-runtime** | OpenCL inference backend for legacy GPUs (GGUF runtime + kernels) |
-| **nous-coder** | Repo-aware coding agent CLI |
+| **[nous-coder](https://github.com/nousengineer/nous-coder)** | Rust coding agent — plan/act/verify loop with local LLM (Ollama) |
 | **nous-desktop** | Desktop UI for the platform |
 | **nous-labs** | Applied research (FlashAttention, speculative decoding, etc.) |
+| **nous-research** | Research notes on legacy GPU inference (Caicos XT) |
 
 ---
 
