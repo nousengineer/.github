@@ -10,19 +10,39 @@ Software should be able to understand, improve and evolve itself.
 
 [Website](https://nousengineer.com) •
 [Documentation](https://docs.nousengineer.com) •
-[GitHub](https://github.com/chronokairo)
+[GitHub](https://github.com/nousengineer)
 
 </div>
 
 ---
 
-## Our Mission
+## About
 
-Nous Engineer is an AI engineering organization focused on building intelligent infrastructure for modern software development.
+**Nous Engineer** is the open-source project behind **Nous** — an AI-native
+engineering platform built and maintained by
+[ChronoKairo](https://github.com/chronokairo).
 
-We believe the future of software isn't just writing code faster—it's creating systems that can understand projects, reason about architecture, automate engineering tasks, and continuously improve themselves.
+We believe the future of software isn't just writing code faster—it's creating
+systems that can understand projects, reason about architecture, automate
+engineering tasks, and continuously improve themselves.
 
-Our goal is to empower developers with AI that acts as an engineering partner rather than just a code generator.
+Our goal is to empower developers with AI that acts as an engineering partner
+rather than just a code generator.
+
+---
+
+## Nous
+
+Nous is a single platform composed of independent components that work together
+but can be used separately:
+
+| Component | Role |
+|-----------|------|
+| **[nous](https://github.com/nousengineer/nous)** | Core platform — runtime (`riluvi`), SDK, multi-tenant server, and editor LLM bridges |
+| **nous-runtime** | OpenCL inference backend for legacy GPUs (GGUF runtime + kernels) |
+| **nous-coder** | Repo-aware coding agent CLI |
+| **nous-desktop** | Desktop UI for the platform |
+| **nous-labs** | Applied research (FlashAttention, speculative decoding, etc.) |
 
 ---
 
@@ -62,19 +82,6 @@ Applied research in Large Language Models, autonomous agents, software engineeri
 
 ---
 
-## Projects
-
-| Project | Description |
-|----------|-------------|
-| **Nous** | AI-native engineering platform |
-| **Research** | Experiments, prototypes and applied AI research |
-| **SDKs** | Libraries for integrating intelligent engineering workflows |
-| **Developer Tools** | Extensions, CLI and productivity utilities |
-
-More projects will be released over time.
-
----
-
 ## Areas of Research
 
 - Artificial Intelligence
@@ -99,10 +106,12 @@ We enjoy building with technologies such as:
 - Rust
 - Python
 - Go
+- C++
 - Docker
 - Kubernetes
 - PostgreSQL
 - Redis
+- OpenCL
 - MCP
 - Large Language Models
 
@@ -128,6 +137,6 @@ The future belongs to software that can learn, reason and improve continuously.
 
 ### Build software that builds better software.
 
-Made with ❤️ by **Nous Engineer**
+An open-source project by **[ChronoKairo](https://github.com/chronokairo)**
 
 </div>
