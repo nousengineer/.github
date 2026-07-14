@@ -1,291 +1,133 @@
-# Nous
+<div align="center">
 
-> AI-native platform for intelligent software optimization, automation and orchestration.
+# Nous Engineer
 
-<p align="center">
-    <img src="./docs/logo.png" width="180" alt="Nous Logo">
-</p>
+### Building the future of AI-native Software Engineering.
+
+Software should be able to understand, improve and evolve itself.
 
 ---
 
-## Overview
+[Website](https://nousengineer.com) •
+[Documentation](https://docs.nousengineer.com) •
+[GitHub](https://github.com/chronokairo)
 
-Nous is an AI-first platform designed to help software teams build, optimize and maintain applications using autonomous and collaborative AI agents.
+</div>
 
-Instead of acting only as a chatbot, Nous understands projects, repositories, documentation and development workflows to automate repetitive engineering tasks while keeping developers in control.
+---
 
-The project is built around one principle:
+## Our Mission
 
-> **Software should improve itself.**
+Nous Engineer is an AI engineering organization focused on building intelligent infrastructure for modern software development.
+
+We believe the future of software isn't just writing code faster—it's creating systems that can understand projects, reason about architecture, automate engineering tasks, and continuously improve themselves.
+
+Our goal is to empower developers with AI that acts as an engineering partner rather than just a code generator.
+
+---
+
+## What We Build
+
+🧠 **AI Agents**
+
+Specialized agents for software engineering, architecture, DevOps, security, documentation, testing and code quality.
+
+📚 **Knowledge Systems**
+
+Semantic understanding of repositories, documentation, APIs and infrastructure.
+
+⚡ **Developer Tools**
+
+AI-native tools that integrate directly into engineering workflows.
+
+🏗 **Engineering Infrastructure**
+
+Reusable platforms for automation, orchestration and intelligent software maintenance.
+
+🔬 **Research**
+
+Applied research in Large Language Models, autonomous agents, software engineering and developer experience.
+
+---
+
+## Our Principles
+
+- Think in decades, not quarters.
+- Build infrastructure before the market needs it.
+- Simplicity scales.
+- Context matters more than prompts.
+- Developers stay in control.
+- AI should amplify engineers—not replace them.
+- Continuous optimization is better than one-time automation.
+
+---
+
+## Projects
+
+| Project | Description |
+|----------|-------------|
+| **Nous** | AI-native engineering platform |
+| **Research** | Experiments, prototypes and applied AI research |
+| **SDKs** | Libraries for integrating intelligent engineering workflows |
+| **Developer Tools** | Extensions, CLI and productivity utilities |
+
+More projects will be released over time.
+
+---
+
+## Areas of Research
+
+- Artificial Intelligence
+- Software Engineering
+- Autonomous Agents
+- Multi-Agent Systems
+- Code Intelligence
+- Retrieval-Augmented Generation (RAG)
+- Vector Search
+- Knowledge Graphs
+- Developer Experience
+- Cloud Infrastructure
+
+---
+
+## Technology
+
+We enjoy building with technologies such as:
+
+- TypeScript
+- Node.js
+- Rust
+- Python
+- Go
+- Docker
+- Kubernetes
+- PostgreSQL
+- Redis
+- MCP
+- Large Language Models
+
+---
+
+## Open Source
+
+We believe that great engineering is built collaboratively.
+
+Community contributions, discussions and ideas are always welcome.
 
 ---
 
 ## Vision
 
-Nous aims to become the intelligent operating layer for software engineering.
+We're building an ecosystem where software teams spend less time maintaining systems and more time creating value.
 
-It continuously analyzes applications to identify:
-
-- Performance bottlenecks
-- Security vulnerabilities
-- Architectural problems
-- Technical debt
-- Code duplication
-- Documentation gaps
-- Infrastructure issues
-- Cost optimization opportunities
-
-and suggests or performs improvements automatically.
+The future belongs to software that can learn, reason and improve continuously.
 
 ---
 
-## Problems We Solve
+<div align="center">
 
-Modern software development suffers from:
+### Build software that builds better software.
 
-- Growing technical debt
-- Manual code reviews
-- Inconsistent documentation
-- Knowledge silos
-- Slow onboarding
-- Poor architecture visibility
-- Difficult maintenance
-- Fragmented AI tooling
+Made with ❤️ by **Nous Engineer**
 
-Nous centralizes these workflows into a single AI platform.
-
----
-
-## Core Features
-
-### AI Code Analysis
-
-Analyze repositories and identify:
-
-- Bugs
-- Anti-patterns
-- Complexity
-- Dead code
-- Performance issues
-
----
-
-### Project Understanding
-
-Nous builds a semantic understanding of:
-
-- source code
-- architecture
-- documentation
-- APIs
-- databases
-- infrastructure
-
-instead of only indexing files.
-
----
-
-### Intelligent Documentation
-
-Generate and maintain:
-
-- README
-- API docs
-- Architecture diagrams
-- ADRs
-- Technical documentation
-
----
-
-### AI Agents
-
-Specialized agents collaborate on tasks such as:
-
-- Backend
-- Frontend
-- DevOps
-- Security
-- Testing
-- Documentation
-- Database
-- Architecture
-
----
-
-### Repository Intelligence
-
-Understand entire repositories instead of isolated files.
-
-Supports:
-
-- Git
-- Monorepos
-- Multi-language projects
-
----
-
-### Continuous Optimization
-
-Nous continuously evaluates:
-
-- code quality
-- architecture
-- scalability
-- costs
-- security
-- maintainability
-
----
-
-## Planned Features
-
-- Local LLM support
-- Multi-model orchestration
-- MCP support
-- GitHub integration
-- VSCode extension
-- CLI
-- Desktop application
-- Web dashboard
-- Team collaboration
-- Plugin system
-- Knowledge graph
-- Autonomous code improvements
-
----
-
-## Architecture
-
-```
-                +----------------------+
-                |     User / Team      |
-                +----------+-----------+
-                           |
-                           |
-                  Natural Language
-                           |
-                 +---------v---------+
-                 |       Nous        |
-                 +---------+---------+
-                           |
-          +----------------+----------------+
-          |                |                |
-      AI Agents      Knowledge Base     Workspace
-          |                |                |
-          +----------------+----------------+
-                           |
-                     Project Context
-                           |
-               Git • Docs • APIs • Database
-```
-
----
-
-## Technology Stack
-
-- TypeScript
-- Node.js
-- AI Agents
-- LLMs
-- MCP
-- Vector Search
-- Embeddings
-- Git
-- REST
-- WebSocket
-
----
-
-## Philosophy
-
-Nous follows a few guiding principles:
-
-- Think in decades, not quarters.
-- Solve difficult problems.
-- Build infrastructure before the market demands it.
-- Simplicity over complexity.
-- AI should augment developers, not replace them.
-- Context is more valuable than prompts.
-- Continuous improvement beats one-time automation.
-
----
-
-## Target Audience
-
-- Software Houses
-- Startups
-- Engineering Teams
-- DevOps Teams
-- AI Engineers
-- CTOs
-- Tech Leads
-- Open Source Projects
-
----
-
-## Roadmap
-
-### Phase 1
-
-- Repository indexing
-- Documentation generation
-- AI chat
-- Semantic search
-
-### Phase 2
-
-- Autonomous agents
-- Code optimization
-- Architecture analysis
-- Security analysis
-
-### Phase 3
-
-- Multi-agent collaboration
-- Enterprise integrations
-- Cloud deployment
-- Self-improving workflows
-
----
-
-## Installation
-
-```bash
-git clone https://github.com/chronokairo/nous.git
-
-cd nous
-
-npm install
-
-npm run dev
-```
-
----
-
-## Contributing
-
-Contributions are welcome.
-
-1. Fork the repository
-2. Create your feature branch
-3. Commit your changes
-4. Push your branch
-5. Open a Pull Request
-
----
-
-## License
-
-MIT License
-
----
-
-## Chronokairo
-
-Nous is developed by **Chronokairo**, an AI-first software company focused on building intelligent infrastructure for the next generation of software engineering.
-
----
-
-## Motto
-
-> **Build software that builds better software.**
+</div>
