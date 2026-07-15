@@ -1,6 +1,6 @@
 <div align="center">
 
-# Nous Engineer
+# Anamnesic
 
 ### Building the future of AI-native Software Engineering.
 
